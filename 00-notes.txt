@@ -1,0 +1,7 @@
+To generate the HTML run:
+$ mjml mod-edm.html
+$ mjml mod-newsletter.html
+
+Then add 'editable' to the img tags.
+And fix the repeater tags on the Newsletter.
+
