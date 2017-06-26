@@ -9,12 +9,7 @@
 			<mj-section padding="5px 0 0 0">
 				<mj-column>
 					<mj-text font-size="11px" color="#bbbbbb" font-weight="300" padding="0px 25px">
-						MOD.
-					</mj-text>
-				</mj-column>
-				<mj-column>
-					<mj-text font-size="11px" color="#bbbbbb" font-weight="300" padding="0px 25px" align="right">
-						<webversion style="color: #bbbbbb;">Web version</webversion>
+						MOD. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<webversion style="color: #bbbbbb;">Web version</webversion>
 					</mj-text>
 				</mj-column>
 			</mj-section>
