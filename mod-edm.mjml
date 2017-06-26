@@ -1,15 +1,20 @@
 <mjml>
+	<mj-head>
+    <mj-style inline="inline">
+      a { color: #bbbbbb; }
+    </mj-style>
+  </mj-head>
 	<mj-body>
 		<mj-container background-color="#000000">
 			<mj-section padding="5px 0 0 0">
 				<mj-column>
 					<mj-text font-size="11px" color="#bbbbbb" font-weight="300" padding="0px 25px">
-						MOD. ❤️
+						MOD.
 					</mj-text>
 				</mj-column>
 				<mj-column>
 					<mj-text font-size="11px" color="#bbbbbb" font-weight="300" padding="0px 25px" align="right">
-						<webversion style="color:inherit;">Web version</webversion>
+						<webversion style="color: #bbbbbb;">Web version</webversion>
 					</mj-text>
 				</mj-column>
 			</mj-section>
@@ -76,22 +81,22 @@
 								font-size="12px"
 								font-weight="300"
 								color="#bbbbbb">
-								<a href="https://instagram.com/MODatUniSA"><img src="images/social-instagram.png" width="25px" height="25px" style="padding-right: 5px;" /></a>
-		            <a href="https://twitter.com/MODatUniSA"><img src="images/social-twitter.png" width="25px" height="25px" style="padding-right: 5px;" /></a>
-		            <a href="https://www.snapchat.com/add/MODatUniSA"><img src="images/social-snapchat.png" width="25px" height="25px" style="padding-right: 5px;" /></a>
-		            <a href="https://facebook.com/MODatUniSA"><img src="images/social-facebook.png" width="25px" height="25px" style="padding-right: 5px;" /></a>
-		            <a href="https://github.com/MODatUniSA"><img src="images/social-github.png" width="25px" height="25px" style="padding-right: 5px;" /></a><br>
+								<a href="https://instagram.com/MODatUniSA"><img src="images/social-instagram.png" width="25px" height="25px" style="padding-right: 5px; width: 25px; height: 25px;" /></a>
+		            <a href="https://twitter.com/MODatUniSA"><img src="images/social-twitter.png" width="25px" height="25px" style="padding-right: 5px; width: 25px; height: 25px;" /></a>
+		            <a href="https://www.snapchat.com/add/MODatUniSA"><img src="images/social-snapchat.png" width="25px" height="25px" style="padding-right: 5px; width: 25px; height: 25px;" /></a>
+		            <a href="https://facebook.com/MODatUniSA"><img src="images/social-facebook.png" width="25px" height="25px" style="padding-right: 5px; width: 25px; height: 25px;" /></a>
+		            <a href="https://github.com/MODatUniSA"><img src="images/social-github.png" width="25px" height="25px" style="padding-right: 5px; width: 25px; height: 25px;" /></a><br>
 								55 North Terrace, <br>
 								Adelaide, Australia.<br>
-								<a href="mailto:mod@mod.org.au" style="color:inherit;">mod@mod.org.au</a>
+								<a href="mailto:mod@mod.org.au" style="color: #bbbbbb;">mod@mod.org.au</a>
 							</mj-text>
 							<mj-text
 								font-size="12px"
 								font-weight="300"
 								color="#bbbbbb">
-								<forwardtoafriend style="color:inherit;">Forward to a friend</forwardtoafriend><br />
-								<preferences style="color:inherit;">Update your preferences</preferences><br />
-								<unsubscribe style="color:inherit;">Unsubscribe</unsubscribe>
+								<forwardtoafriend style="color: #bbbbbb;">Forward to a friend</forwardtoafriend><br />
+								<preferences style="color: #bbbbbb;">Update your preferences</preferences><br />
+								<unsubscribe style="color: #bbbbbb;">Unsubscribe</unsubscribe>
 							</mj-text>
 					</mj-column>
 					<mj-column>
