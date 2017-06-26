@@ -172,18 +172,18 @@
 			<mj-section background-color="#3d3d3d">
 					<mj-column>
 						<!-- Footer left -->
-							<mj-table
-								width="150px"
-								padding="0px 5px 0px 25px"
-								line-height="25px">
-								<tr padding="0px">
-									<td width="25px"><a href="https://instagram.com/MODatUniSA"><img src="images/social-instagram.png" width="25" height="25" style="width: 25px; height: 25px;" /></a></td>
-									<td width="25px"><a href="https://twitter.com/MODatUniSA"><img src="images/social-twitter.png" width="25" height="25" style="width: 25px; height: 25px;" /></a></td>
-									<td width="25px"><a href="https://www.snapchat.com/add/MODatUniSA"><img src="images/social-snapchat.png" width="25" height="25" style="width: 25px; height: 25px;" /></a></td>
-									<td width="25px"><a href="https://facebook.com/MODatUniSA"><img src="images/social-facebook.png" width="25" height="25" style="width: 25px; height: 25px;" /></a></td>
-									<td width="25px"><a href="https://github.com/MODatUniSA"><img src="images/social-github.png" width="25" height="25" style="width: 25px; height: 25px;" /></a></td>
-								</tr>
-							</mj-table>
+							<mj-text
+								padding="0px 25px"
+								font-size="12px"
+								font-weight="300"
+								line-height="30px"
+								color="#bbbbbb">
+								<a href="https://instagram.com/MODatUniSA"><img src="images/social-instagram.png" width="25" height="25" style="width: 25px; height: 25px;" /></a>&nbsp;&nbsp;
+								<a href="https://twitter.com/MODatUniSA"><img src="images/social-twitter.png" width="25" height="25" style="width: 25px; height: 25px;" /></a>&nbsp;&nbsp;
+								<a href="https://www.snapchat.com/add/MODatUniSA"><img src="images/social-snapchat.png" width="25" height="25" style="width: 25px; height: 25px;" /></a>&nbsp;&nbsp;
+								<a href="https://facebook.com/MODatUniSA"><img src="images/social-facebook.png" width="25" height="25" style="width: 25px; height: 25px;" /></a>&nbsp;&nbsp;
+								<a href="https://github.com/MODatUniSA"><img src="images/social-github.png" width="25" height="25" style="width: 25px; height: 25px;" /></a>
+							</mj-text>
 							<mj-text
 								font-size="12px"
 								font-weight="300"
