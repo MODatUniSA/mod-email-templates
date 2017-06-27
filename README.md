@@ -14,4 +14,5 @@ That should output a corresponding HTML file: `mod-newsletter.html`
 
 There are a few little hacks that are needed to get the Campaign Monitor tags working nicely. Here is the post-processing work needed.
 
-1. Fix the `<repeater></repeater>` tags that are generated next to each other rather than an open tag at the start and a close tag at the end.
+1. Fix the empty `<repeater></repeater>` tags that are generated next to each other rather than an open tag at the start and a close tag at the end.
+2. Add `editable` to the hero `<img />` tag so that our team can edit the top image if need be.
