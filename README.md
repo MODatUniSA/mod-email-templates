@@ -4,7 +4,7 @@ This repository contains the responsive email newsletter designs for [MOD](http:
 
 We've designed our email newsletters using [MJML](https://mjml.io) so that we can focus on how they look rather than making them work on *all* of the email clients.
 
-<img src="https://raw.githubusercontent.com/MODatUniSA/mod-email-templates/mod-newsletter.jpg" width="50%" />
+<img src="https://raw.githubusercontent.com/MODatUniSA/mod-email-templates/master/mod-newsletter.jpg" width="50%" />
 
 ## Generation
 
