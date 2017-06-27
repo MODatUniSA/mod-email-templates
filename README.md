@@ -1,8 +1,12 @@
 # MOD. email newsletters
 
-Email newsletter designs for [MOD](http://mod.org.au).
+This repository contains the responsive email newsletter designs for [MOD](http://mod.org.au).
 
 We've designed our email newsletters using [MJML](https://mjml.io) so that we can focus on how they look rather than making them work on *all* of the email clients.
+
+<img src="https://raw.githubusercontent.com/MODatUniSA/mod-email-templates/mod-newsletter.jpg" width="50%" />
+
+## Generation
 
 To generate the HTML from the `.mjml` templates, install the [MJML command line tools](https://mjml.io/download), and then run:
 
