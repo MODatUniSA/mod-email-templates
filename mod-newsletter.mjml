@@ -111,13 +111,21 @@
 						<multiline>Description of the feature that's going on.</multiline>
 					</mj-text>
 
-					<mj-button
+					<mj-image
+						alt="Read more"
+						href="#"
+						width="116px"
+						align="left"
+						src="images/button-read-more-232px.png">
+					</mj-image>
+
+					<!-- <mj-button
 						background-color="#cb4ac0"
 						color="#000000"
 						href="#"
 						align="left">
 						Read more
-					</mj-button>
+					</mj-button> -->
 
 				</mj-column>
 			</mj-section>
