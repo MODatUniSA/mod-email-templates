@@ -50,14 +50,22 @@
 						Welcome to MOD. a futuristic Museum of Discovery in Adelaide, Australia.</multiline>
 					</mj-text>
 
-					<mj-button
+					<mj-image
+						alt="RSVP"
+						href="#"
+						width="116px"
+						align="center"
+						src="images/button-rsvp.png">
+					</mj-image>
+
+					<!-- <mj-button
 						background-color="#cb4ac0"
 						color="#000000"
 						href="http://bit.ly/MODsurvey01"
 						align="center"
 						padding-top="40">
 						Start survey
-					</mj-button>
+					</mj-button> -->
 
 				</mj-column>
 			</mj-section>
