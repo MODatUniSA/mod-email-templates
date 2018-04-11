@@ -10,7 +10,7 @@ We've designed our email newsletters using [MJML](https://mjml.io) so that we ca
 
 To generate the HTML from the `.mjml` templates, install the [MJML command line tools](https://mjml.io/download), and then run:
 
-`$ mjml mod-newsletter.mjml`
+`$ mjml mod-newsletter.mjml -o mod-newsletter.html`
 
 That should output a corresponding HTML file: `mod-newsletter.html`
 
